@@ -1,26 +1,6 @@
-## Anjuna Lounge
-PRIVACY POLICY
+## Anjuna Lounge Privacy Policy
 
-CONTENTS
-1. Introduction
-2. The legal framework we rely on
-3. When do we collect your personal data?
-4. What personal data do we collect?
-5. How do we use your personal data?
-6. How do we protect your personal data?
-7. How long will we keep your personal data?
-8. Who do we share your personal data with?
-9. Transfer of data outside EEA
-10. What are your rights over your personal data?
-11. How can you stop the use of your personal data for direct marketing?
-12. Contacting the Regulator
-13. Links to other sites
-14. Status of Privacy Notice and updates
-15. Security
-16. Scope of This Privacy Notice
-17. Any questions?
-
-1. Introduction
+# Introduction
 
 Anjuna Lounge Ltd (“we”, “us”, “our”) are committed to protecting and respecting your personal data. We take the privacy of our guests, customers, job applicants and any other individuals with whom we engage very seriously.
 
@@ -30,7 +10,7 @@ This Privacy Notice (together with our Terms of Use and any other documents refe
 
 For the purpose of the relevant data protection legislation, which includes the General Data Protection Regulation (GDPR) the data controller is Anjuna Lounge Ltd, 59 Hazelwell Street, Birmingham, B30 2JS.
 
-2. The legal framework we rely on
+# The legal framework we rely on
 
 The law on data protection sets out a number of different reasons for which a company may collect and process your personal data, including:
 ⦁ Consent. In specific situations, we can collect and process your data with your consent – for example when you opt in to receiving information or updates from us.
@@ -40,7 +20,7 @@ The law on data protection sets out a number of different reasons for which a co
 
 In some limited circumstances, we may also need to collect and process special category personal data about you. We will only do so on the basis of your explicit consent or where there is specific legal basis for doing so.
 
-3. When do we collect your personal data?
+# When do we collect your personal data?
 
 The occasions on which we collect your data include, but are not limited to:
 ⦁ When you visit our website and enter information about yourself.
@@ -57,7 +37,7 @@ The occasions on which we collect your data include, but are not limited to:
 ⦁ When you apply for a job vacancy.
 ⦁ When you’ve given a third party permission to share the information they hold about you with us.
 
-4. What personal data do we collect?
+# What personal data do we collect?
 
 The personal data which we may collect depends upon the means by which you choose to engage with Anjuna Lounge and the information that you choose to provide. This may include the following:
 
@@ -81,7 +61,7 @@ Information we may collect about you
 ⦁ information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page and any phone number used to call us. We may track where you came to our site from and where you went when you left our site and how often you visit and use our site.
 ⦁ via cookies on our website to distinguish you from other users. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-5. How we use your personal data?
+# How we use your personal data?
 
 We want to give you the best possible customer experience by combining the data we have about you to provide you with updates, offers and promotions on our products and coffee shops that are most likely to interest you. In the case of loyalty scheme members, we’ll also offer you relevant rewards.
 
@@ -98,7 +78,7 @@ We will also use your personal data in the following ways:
 ⦁ To comply with our contractual or legal obligations to share data with law enforcement.
 ⦁ To send you communications required by law or which are necessary to inform you about our changes to the services we provide you.
 
-6. How do we protect your personal data?
+# How do we protect your personal data?
 
 We will treat your data with the utmost care and take appropriate steps to protect it and we have defined security and privacy controls, processes and procedures to protect your data.
 
@@ -109,23 +89,23 @@ Our systems comply with high-standard business-grade specifications, including:
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-7. How long will we keep your personal data?
+# How long will we keep your personal data?
 
 Whenever we collect or process your personal data, we’ll keep it no longer than is necessary for the purposes for which the personal data is processed.
 
 Your personal data will then either be deleted or destroyed.
 
-8. Who do we share your personal data with?
+# Who do we share your personal data with?
 
 In certain situations we may disclose your personal data to third parties:
 ⦁ In the event that we sell any business or assets, in which case we may disclose your personal data to the prospective buyer of such business or assets.
 ⦁ If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Anjuna Lounge Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-9. Transfer of data outside EEA
+# Transfer of data outside EEA
 
 All countries in the European Economic Area (EEA), which includes the UK, have similar standards of legal protection for your information. We may store your information on third party data centres located outside the EEA, where there is not a similar standard of data protection laws. If so, we will take steps to ensure that adequate levels of protection are applied to your information.
 
-10. What are your rights over your personal data?
+# What are your rights over your personal data?
 
 You are receiving relevant communications from us because you have previously consented to receiving communications from us, or you have engaged with us or shown interest in receiving updates about our products, services and job vacancies by providing such personal data to us. The data protection laws allow us to treat your previous engagement as amounting to a “soft opt-in.”
 
@@ -141,35 +121,35 @@ Under the data protection laws you have the right:
 If you wish to exercise any of these rights, or if you have any questions about our use of your information, please email us at admin@anjunalounge.com or write to or contact Data Protection Officer, Anjuna Lounge Ltd, 59 Hazelwell Street, Birmingham, B30 2JS, United Kingdom, +44 (0) 7789 226458.
 You also have a right to complain to the Information Commissioner’s Office or other appropriate regulatory authority in relation to your information held by us, and how we use it.
 
-11. How can you stop the use of your personal data for direct marketing?
+# How can you stop the use of your personal data for direct marketing?
 
 When you provide your personal data we give you the opportunity to choose to receive further information about our products, services and job vacancies which we believe may be of interest to you.
 
-12. Contacting the Regulator
+# Contacting the Regulator
 
 If you feel that your data has not been handled correctly, or you are unhappy with our response to any requests or queries you have made regarding the use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office. You can contact them by calling 0303 123 1113 or by visiting their website www.ico.org.uk/concerns.
 
-13. Links to other sites
+# Links to other sites
 
 You may, from time to time, receive links to and from third-party websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies, terms and conditions and we do not accept any responsibility or liability in connection with any access or use by you of these sites.  Please check the policies, terms and conditions of such websites before you submit any personal data.
 
-14. Status of Privacy Notice and updates
+# Status of Privacy Notice and updates
 
 This Privacy Notice is non-contractual. We reserve the right to amend it from time to time. Amendments will be posted to our website and, where appropriate, through e-mail notification. Unless otherwise specified all such changes will take effect immediately upon posting to the website.
 
 For the avoidance of doubt, no change to the Privacy Notice will change the content of your consent that you may have granted.
 
-15. Security
+# Security
 
 Where we have given you (or where you have chosen) a password or PIN which enables you to access certain parts of our website, you are responsible for keeping this password or PIN confidential. We ask you not to share a password or PIN with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-16. Scope of This Privacy Notice
+# Scope of This Privacy Notice
 
 This Privacy Notice is directed at our guests, customers, job applicants, and any external individuals with whom we engage. In relation to personal data our current and former employees are covered by separate internal documentation and operational practices, including individual employee contracts and company rules, policies, processes and procedures.
 
-17. Any questions?
+# Any questions?
 
 We hope this Privacy Notice has been helpful in setting out the way we handle your personal data and your rights to control it.
 
